@@ -1,28 +1,29 @@
-Final-project\n
-=============\n
+Final-project
+=============
 
-This is our c programming final project.\n 
+This is our c programming final project.
 
-Any changes made should be listed below\n
+Any changes made should be listed below
 
 
-Changelog:\n
+Changelog:
 
 	version 0.0.1
 
-		Initial commit to github.\n
-		Program can accept MM-DD-YYYY and use that to count the number of days between input and current year. \n
-		Displays amount of leap days between current date and input year.\n
+		Initial commit to github.
+		Program can accept MM-DD-YYYY format
+		Can count the number of days between input and current year.
+		Displays amount of leap days between current date and input year.
 		
 		
-Planned features:\n
+Planned features:
 
-	*chinese calendar.\n
-	*leap year full integration.\n
-	*accurate current date calculations.\n
-	*Input validation.\n
+	*chinese calendar.
+	*leap year full integration.
+	*accurate current date calculations.
+	*Input validation.
 
-Extra ideas:\n
+Extra ideas:
 
-	*fancy gui\n
+	*fancy gui
 
