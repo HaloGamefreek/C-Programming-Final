@@ -10,10 +10,10 @@ Changelog:
 
 	version 0.0.1
 
-		Initial commit to github.
-		Program can accept MM-DD-YYYY format
-		Can count the number of days between input and current year.
-		Displays amount of leap days between current date and input year.
+		*Initial commit to github.
+		*Program can accept MM-DD-YYYY format
+		*Can count the number of days between input and current year.
+		*Displays amount of leap days between current date and input year.
 		
 		
 Planned features:
