@@ -4,7 +4,7 @@
 		<category name="Window">
 			<property name="Left" type="integer">-8</property>
 			<property name="Top" type="integer">-30</property>
-			<property name="Right" type="integer">1055</property>
+			<property name="Right" type="integer">1056</property>
 			<property name="Bottom" type="integer">479</property>
 			<property name="Maximized" type="integer">1</property>
 			<property name="Active" type="integer">1</property>

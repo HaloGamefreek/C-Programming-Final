@@ -7,6 +7,15 @@ Any changes made should be listed below
 
 
 Changelog:
+	
+	version 0.0.2
+
+		*Added several comments
+		*Streamlined: Changed list of months into array.
+		*Initial leap day integration
+
+		Bugfix:
+			Extra year was being added. I failed to realize that because our system counts the remainder of days in a year I needed to subtract one year before it gets multiplied.
 
 	version 0.0.1
 
